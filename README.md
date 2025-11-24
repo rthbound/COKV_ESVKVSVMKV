@@ -1,6 +1,6 @@
 - ✅ Chapter 1
 - ✅ Chapter 2
-- [ ] Chapter 3
+- ✅ Chapter 3
 - [ ] Chapter 4
 - [ ] Chapter 5
 - [ ] Chapter 6
@@ -144,7 +144,7 @@
 - [ ] Chapter 144
 - [ ] Chapter 145
 - [ ] Chapter 146
-- [ ] Chapter 147
-- [ ] Chapter 148
-- [ ] Chapter 149
-- [ ] Chapter 150
+- ✅ Chapter 147
+- ✅ Chapter 148
+- ✅ Chapter 149
+- ✅ Chapter 150
