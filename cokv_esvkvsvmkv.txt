@@ -1222,8 +1222,8 @@ hakvn vm enrecohpet, afvcketvn es cv wvnayetskvtes:
 ’yvhikvren. Cehofv, vn Hesaketvmese toyetskat, estofis 
 meyuksv sekon vkvsvmkvn ce’mares. 
 ESVKVSVMKV 31. 
-Yvkikv Enhomahtv en hahoyat. Tewe es em Vkvsvmkv. 
-Cehofv toyetskat, ec ofvn vm ehketvn hayvyet os: vc 
+Yvhikv Enhomahtv en hahoyat. Tewe es em Vkvsvmkv. 
+1 Cehofv toyetskat, ec ofvn vm ehketvn hayvyet os: vc 
 vlisates, meyuksv-sekon: cem fvccetv ofvn cv hesayecvs. 
 2 Ce hvckon a vm wiyyvs: lvpkusen cv hesayecvs: 
 cvto yekce vn hueret, cuko tohopke cv hesayeckvn 
@@ -1237,8 +1237,8 @@ mehenwetv en Hesaketvmese toyetskat, pvlken cv nesets-
 kvtet os. 
 6 Mv ehvperketv laksvke vrakkuecakan enhomecis; 
 momis Cehofvn em enhonrvyet os. 
-1 Cem vnokeckvn es vc afvcket, vc afvcke here tares: 
-vm estemerketvn hecet, vc vnrvpkv ocakof, vm puyv¬ 
+7 Cem vnokeckvn es vc afvcket, vc afvcke here tares: 
+vm estemerketvn hecet, vc vnrvpkv ocakof, vm puyv- 
 fekcvn kerretskvtes: 
 8 Momet vn horre e’nke ofvn vm vkhottekot, cv’len 
 taphaten sehoyicetskvtes. 
@@ -1250,28 +1250,28 @@ taphaten sehoyicetskvtes.
 ESVKVSVMKV, 31. 
 likikv: feknokketvt omecicen cv turwvt yvmahket os, 
 henka, vm puyvfekcv cv’na tepakateu. 
-10 Yn hesaketvn feknokketvt yvmahkuecen, vm ohrolo- 
+10 Vn hesaketvn feknokketvt yvmahkuecen, vm ohrolo- 
 pen hihketvt yvmahkuecekv: vn holwvyeckvt omecicen 
 vn yekcet sumiken, cv funet yvmahkvket os. 
-11 Yc vnrapvlke omvlkvt omecicen vlesketv cv haket 
-os; henka, vm vwolicvlke ehomv malivkvu, momet vm 
-etekerhoyetv eliomv nake penkvlhoye tayat: fettvn arin, 
+11 Vc vnrapvlke omvlkvt omecicen vlesketv cv haket 
+os; henka, vm vwolicvlke ehomv mahvkvu, momet vm 
+etekerhoyetv ehomv nake penkvlhoye tayat: fettvn arin, 
 cv hecakat vm pefatkvtes. 
-12 Este elvte vkerrikoceko omit cv hoshoyet os: nakv- 
+12 Este elvte vkerrihoceko omit cv hoshoyet os: nakv- 
 cvnkv tvkocke omit omis. 
-13 Este snlkat holwvken vc opunvyecaken pohvyvtet ok, 
+13 Este sulkat holwvken vc opunvyecaken pohvyvtet ok, 
 estvmv estomis penkvlkvt ocen: vc vnrvpen etemopu- 
 nvyecakof, vn hesaketv sumecicetvn komet vkerricakvtes. 
-14 Mo mis, Cehofv toyetskat, cem enhonrvyet os: cemet 
+14 Momis, Cehofv toyetskat, cem enhonrvyet os: cemet 
 vn Hesaketvmese toyetskes, makvyet os. 
-15 Ym oketv ce’nke ofvt ocakes: vn horre e’nketake 
+15 Vm oketv ce’nke ofvt ocakes: vn horre e’nketake 
 enkvpvken cv hesayecvs, vc assecakateu enkvpvken. 
 16 Ce turofvt cem vtotkvn oh hvyvyicekvs; cem vno- 
 keckv ofvn cv hesayecvs. 
 17 Cehofv toyetskat, vc vlisates, ec ohhuehkvyvtet ok: 
-hoiwvyecakat vlsvkekvs : elkvhute ofvn cvyayvkekvs. 
+holwvyecakat vlsvkekvs: elkvhute ofvn cvyayvkekvs. 
 18 Cukhvrpe laksakat punayeko taye hakvkekvs; mv, 
-ek^vmet ekvsvmkv enhomeckv tepakat es opunayet, este 
+ekvsvmet ekvsvmkv enhomeckv tepakat es opunayet, este 
 faccvlke vnrvpen opunvyecakat. 
 19 Cen heretv, mv cem penkvlakat en hericetskvte 
 mvtawwvt rakket os, este e’ppucetake ehomvn mv cem 
@@ -1288,7 +1288,7 @@ ESVKVSVMKV, 32.
 37 
 22 Vnet on omat, vyvkhvmketv ofvn opunayit, cen 
 renakv ehomv enkvpvken es vn tvcket os, makvyvtes: 
-mome estomis ec oh huehkvyof, vm mekusvpkv en liaken 
+mome estomis ec oh huehkvyof, vm mekusvpkv en haken 
 em vpohicetskvtes. 
 23 Cehofvn vnokecvkes, em vnokeckvke omvlkatskat: 
 este heromakat Cehofvt vcayecet, mv ekvsvmkv es 
@@ -1870,7 +1870,7 @@ os: ce turofv ehomvn meynksv-sekon cv huericetskes.
 enhvteceskv seko vteken meynksv-sekat eroren. Eiiien 
 momen Emen. 
 ESVKVSVMKV 42. 
-Kolv e’ppucetake em Maskel; Yvkikv Enhomahty en hahoyat. 
+Kolv e’ppucetake em Maskel; Yvhikv Enhomahty en hahoyat. 
 Eco uewv fihnakan eyacusat etvpomet vm puyvfekcvt 
 cemen eyacuset os, Hesaketvmese toyetskat. 
 2 Vm puyvfekcvt Hesaketvmesen ewvnhkuset os; 
